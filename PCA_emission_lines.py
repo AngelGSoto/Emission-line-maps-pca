@@ -151,6 +151,7 @@ data['y'] = y
 #reorganizing the colunm names
 new_order = ['x', 'y', 'PC1', 'PC2', 'PC3', 'PC4', 'PC5', 'PC6', 'PC7', 'PC8', 'PC9', 'PC10']
 data_new = data[new_order]
+
 ##########################
 # SAVE the table results #
 ##########################

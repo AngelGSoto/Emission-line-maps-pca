@@ -1,7 +1,12 @@
+.ipynb_checkpoints
 eigenvectors.dat
 *.tar.gz
 input_luis.txt.tar
 input_luis.txt
+*allarie.dat
+*allen.dat
+*file.dat
+*file.txt
 *~
 *#
 \#*
